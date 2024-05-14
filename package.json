@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_problems_solving",
+  "version": "1.0.0",
+  "description": "Node.js problem solving",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anukeerth EK",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anukeerth-ek/NodeJS_Problem_Solving.git"
+  }
+}
